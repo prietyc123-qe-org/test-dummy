@@ -1,4 +1,4 @@
-# Creating an application with a Quarkus code sample
+# Creating an application with a Quarkus code sample test
 
 **Note:** The Quarkus code sample uses the **8081** HTTP port.
 
