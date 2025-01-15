@@ -14,7 +14,7 @@ metadata:
     backstage.io/kubernetes-id: test-dummy 
     backstage.io/techdocs-ref: dir:. 
     janus-idp.io/tekton: test-dummy
-    jfrog-artifactory/image-name: rhtap-docker/dummy
+    jfrog-artifactory/image-name: dummy
   tags: ["java", "quarkus", "sscs", "sbom", "acs"] 
 spec:
   type: service
